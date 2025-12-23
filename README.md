@@ -31,6 +31,8 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 # Prompt:
+1.An animated scene of a futuristic city at night, with glowing neon lights, flying cars
+2.A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them.
 
 # Result: The Prompt of the above task executed successfully
 
